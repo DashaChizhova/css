@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,500;1,900&display=swap");
+
+body {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+
+  /* font-size: 16px;
+  font-weight: normal;
+  font-family: "Roboto", sans-serif; */
+
+  font: normal 16px "Roboto", sans-serif;
+}
+
+.contacts {
+  padding: 1em;
+  background-color: black;
+  border-radius: 1em;
+  text-align: center;
+  margin-top: 20px;
+  box-sizing: border-box;
+  color: white;
+}
+
+.btn {
+  background: black;
+  padding: 10 px 20px;
+  color: white;
+  opacity: 0.9;
+}
